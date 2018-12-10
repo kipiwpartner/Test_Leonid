@@ -1,0 +1,7 @@
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\bin\Debug\Fille.exe.config
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\bin\Debug\Fille.exe
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\bin\Debug\Fille.pdb
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\obj\Debug\Fille.csprojAssemblyReference.cache
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\obj\Debug\Fille.csproj.CoreCompileInputs.cache
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\obj\Debug\Fille.exe
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\Fille\obj\Debug\Fille.pdb

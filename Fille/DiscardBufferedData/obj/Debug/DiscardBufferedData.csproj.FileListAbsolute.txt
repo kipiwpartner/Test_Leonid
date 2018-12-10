@@ -1,0 +1,7 @@
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\bin\Debug\DiscardBufferedData.exe.config
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\bin\Debug\DiscardBufferedData.exe
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\bin\Debug\DiscardBufferedData.pdb
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\obj\Debug\DiscardBufferedData.csproj.CoreCompileInputs.cache
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\obj\Debug\DiscardBufferedData.exe
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\obj\Debug\DiscardBufferedData.pdb
+C:\Users\kipiw\GD_kipivip\_Canada_FR\__Колледж\_2_Session\420-D12-MA ALGORITHMES\Travaux\C#\Fille\DiscardBufferedData\obj\Debug\DiscardBufferedData.csprojAssemblyReference.cache
